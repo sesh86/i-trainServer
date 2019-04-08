@@ -1,0 +1,87 @@
+Create Course:
+===============
+Rich text in CreateCourse,  - done
+category, - done
+video - done
+, live classroom, recorded class room - done
+FAQ - done
+Batches - done
+Watch Demo - Click to see video -  done
+
+New Page:
+=========
+Create Edit Page - done
+
+Course Page:
+===========
+Collapse -> First Box content is getting hidden - done
+Logo in course page - done
+FAQ - done
+Batches - done
+Watch Demo - Click to see video - done
+Enroll -> student form -> Save - done
+Reviews - done
+
+Defect2:
+1)Access to XMLHttpRequest at 'http://localhost:8080/upload' from origin 'http://localhost:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+2) add redux
+
+
+Home Page:
+==========
+Widgets for courses - done
+Search - done
+Categories - done
+Master Courses - combination courses - to be done
+Search box in navbar
+
+
+Watch Demo - Click to see video - done
+All courses, categories tab - Done
+  Enroll -> student form -> Save - done
+  Enquiry form - Name, email, number, course interested - done
+  Country code - to be loaded in db - to be done
+
+add details from course in widget and show price - done
+
+Upcoming Batches - done
+
+payment gateway -
+https://www.payumoney.com/merchant-account/#/
+
+create User - details in create user
+
+login using google, fb, LinkedIn
+
+onhover - contents on widget
+
+Defects:
+=========
+Hardcoded IP Address - fixed
+[0] (node:291744) DeprecationWarning: collection.remove is deprecated. Use deleteOne, deleteMany, or bulkWrite instead - Fixed
+NavLink in CourseList - delete thing
+toggle for enquiry - fixed
+
+Pending:
+========
+role usage in app - done
+create User - done
+google login
+logo invisible issue
+active in navbar
+payment gateway
+Reviews
+FAQ
+common discounts
+related courses widget
+last viewed
+iframe youtube controls
+enquiry at bottom
+web scrapping
+heroku
+pagination for enquiries
+indexing/using _id for delete/display queries
+carousel >
+countries -> currency -> get local
+
+batch date defect 
